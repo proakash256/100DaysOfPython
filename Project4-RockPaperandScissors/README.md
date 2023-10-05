@@ -1,4 +1,4 @@
-# RockPaperScissors
+# Rock Paper Scissors
 
 This project makes the use of conditional and iterative statements to make a simple implementation of the famous Rock Paper Scissors game on the command line. It also shows the use of Escape Sequences and random module.
 
