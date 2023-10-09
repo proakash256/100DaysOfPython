@@ -4,7 +4,6 @@ import random
 
 print(hangmanArt.logo)
 chosen_word = random.choice(wordList.word_list)
-print(f'\nPssst, the solution is {chosen_word}.')
 lives = 7
 l1 = []
 for _ in range(len(chosen_word)):
