@@ -1,8 +1,8 @@
-import hangmanArt
+import art
 import wordList
 import random
 
-print(hangmanArt.logo)
+print(art.logo)
 chosen_word = random.choice(wordList.word_list)
 lives = 7
 l1 = []
