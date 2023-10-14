@@ -34,12 +34,17 @@ def calculator():
         b = float(input("Enter the Next Number : "))
         answer = operations[s](a, b)
         print(f"{a} {s} {b} = {answer}")
-        c = input("Type y if you want to continue the calculation or type n to start a fresh calculation: ")
+        print("Type y to continue the calculation")
+        print("Type n to start a new calculation")
+        print("Type q to quit")
+        c = input("Enter your choice: ")
         if c == "y":
             a = answer
-        else:
+        elif c == "n":
             should_continue = False
             calculator()
+        else:
+            return
 
 
 calculator()
