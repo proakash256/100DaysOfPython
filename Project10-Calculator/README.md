@@ -2,6 +2,8 @@
 
 This is a basic Python calculator program that allows you to perform basic arithmetic operations (addition, subtraction, multiplication, and division) on two numbers.
 
+The ASCII art used is taken from [here](https://ascii.co.uk/art/calculator).
+
 ## Features
 
 Here's an overview of the Python language features used in this code:
