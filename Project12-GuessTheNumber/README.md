@@ -3,7 +3,8 @@
 ## Introduction
 This Python script is a "Guess the Number" game in which the player has to guess a randomly generated number between 1 and 100.  
 The game provides the player with a limited number of chances based on the chosen difficulty level, and the player must try to guess the correct number within these chances.  
-The game offers an entertaining and interactive experience through the command line interface.
+The game offers an entertaining and interactive experience through the command line interface.  
+The ASCII art used is taken from [here](https://ascii.co.uk/text).
 
 ## Features
 
