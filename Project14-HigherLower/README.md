@@ -3,7 +3,8 @@
 ## Introduction
 This Python script is a "Higher or Lower" game where the player compares the number of followers of two randomly selected celebrities  
 and tries to guess which celebrity has more followers. The player's score increases with each correct guess.  
-The game imports an ASCII art logo and a list of dictionaries containing celebrity data. The player interacts with the game through the command line.
+The game imports an ASCII art logo and a list of dictionaries containing celebrity data. The player interacts with the game through the command line.  
+The ASCII art used is taken from [here](https://ascii.co.uk/text).
 
 ## Features
 
