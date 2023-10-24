@@ -1,6 +1,3 @@
-# Damien Hirst is painter who has made many spot paintings which are being sold for millions of dollars.
-# In this project we generate our own hirst like painting.
-
 import turtle
 from colors import color_list
 import random
