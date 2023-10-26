@@ -71,5 +71,3 @@ The game loop is responsible for updating the game state and handling collisions
 ## Conclusion
 
 The Snake Game program provides a fun and interactive experience where players control a snake and try to achieve the highest score by eating food without colliding with any obstacles. The program demonstrates the use of the turtle module for creating graphics, handling user input, and managing game objects. It also utilizes concepts such as object-oriented programming, event handling, collision detection, and file I/O.
-
-You can copy this documentation and save it in a markdown file to createthe documentation for the Snake Game program.
