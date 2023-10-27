@@ -1,4 +1,4 @@
-# Snake Game Documentation
+# Snake Game
 
 ## Introduction
 
