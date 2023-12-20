@@ -1,4 +1,4 @@
-# Flash Card App Documentation
+# Flash Card App
 
 ## Introduction
 
